@@ -1,0 +1,9 @@
+name: SCGameCore
+main: maikung.SCGame.Core.Core
+version: 0.1
+
+commands:
+    core:
+      description: Core
+    q:
+      description: quests
